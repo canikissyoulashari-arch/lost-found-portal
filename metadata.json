@@ -1,0 +1,8 @@
+{
+  "name": "Campus Lost & Found Portal",
+  "description": "College Lost & Found Portal featuring smart auto-match algorithms, item custody tracking, and QR code SafeTagging for fast campus property recovery.",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ],
+  "permissions": []
+}

@@ -98,12 +98,12 @@ export const Navbar: React.FC<NavbarProps> = ({
           <div className="flex items-center gap-2.5 text-xs justify-between lg:justify-end flex-wrap pt-1 lg:pt-0 border-t border-slate-800/80 lg:border-t-0">
             
             <a 
-              href="mailto:canikissyoulashari@gmail.com?subject=BBSUTSD%20Portal%20Inquiry"
+              
               className="bg-slate-900/90 hover:bg-slate-800 text-amber-300 border border-amber-400/30 px-2.5 py-1 rounded-lg font-mono text-[11px] flex items-center gap-1.5 transition"
               title="Email Asghar Lashari (canikissyoulashari@gmail.com)"
             >
               <Mail className="w-3.5 h-3.5 text-amber-400" />
-              <span className="hidden sm:inline">canikissyoulashari@gmail.com</span>
+              <span className="hidden sm:inline"<
               <span className="sm:hidden">Email</span>
             </a>
 

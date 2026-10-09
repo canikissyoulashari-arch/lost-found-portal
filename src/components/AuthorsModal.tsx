@@ -8,7 +8,7 @@ interface AuthorsModalProps {
 
 export const AuthorsModal: React.FC<AuthorsModalProps> = ({ isOpen, onClose }) => {
   const [copiedEmail, setCopiedEmail] = useState(false);
-  const asgharEmail = "canikissyoulashari@gmail.com";
+  
 
   if (!isOpen) return null;
 
